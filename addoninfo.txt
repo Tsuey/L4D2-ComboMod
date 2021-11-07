@@ -1,0 +1,13 @@
+"AddonInfo"
+{
+	addonSteamAppID		550
+	addontitle		"Tsuey's Alternative Finales [Server-side]"
+	addontagline		"Server-side alternative finales and stuff!"
+	addonDescription	"Server-side alternative finales and stuff and more!"
+	addonversion		1
+	addonContent_Script	1
+	addonauthor		"Tsuey"
+	addonauthorSteamID	"Tsuey"
+	addonURL0		"https://github.com/Tsuey/L4D2-Community-Update"
+	addonURL1		"https://steamcommunity.com/app/550/discussions/1/1651043320659915818/"
+}
